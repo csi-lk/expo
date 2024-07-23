@@ -1,4 +1,4 @@
-import { requireNativeViewManager } from 'expo-modules-core';
+import { requireNativeViewManager } from 'expo';
 import * as React from 'react';
 
 import { NativeLinearGradientProps } from './NativeLinearGradient.types';
