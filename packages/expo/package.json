@@ -30,6 +30,8 @@
     "config-plugins.d.ts",
     "devtools.js",
     "devtools.d.ts",
+    "internal.js",
+    "internal.d.ts",
     "react-native.config.js",
     "requiresExtraSetup.json",
     "tsconfig.base.json"
